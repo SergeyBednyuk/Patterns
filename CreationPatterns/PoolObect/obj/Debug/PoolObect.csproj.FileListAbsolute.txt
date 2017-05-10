@@ -1,0 +1,12 @@
+D:\Sergey Bednyk\Design Patterns\Practik\PoolObect\bin\Debug\PoolObect.exe.config
+D:\Sergey Bednyk\Design Patterns\Practik\PoolObect\bin\Debug\PoolObect.exe
+D:\Sergey Bednyk\Design Patterns\Practik\PoolObect\bin\Debug\PoolObect.pdb
+D:\Sergey Bednyk\Design Patterns\Practik\PoolObect\obj\Debug\PoolObect.csprojResolveAssemblyReference.cache
+D:\Sergey Bednyk\Design Patterns\Practik\PoolObect\obj\Debug\PoolObect.exe
+D:\Sergey Bednyk\Design Patterns\Practik\PoolObect\obj\Debug\PoolObect.pdb
+D:\itstep\Patterns\CreationPatterns\PoolObect\bin\Debug\PoolObect.exe.config
+D:\itstep\Patterns\CreationPatterns\PoolObect\obj\Debug\PoolObect.exe
+D:\itstep\Patterns\CreationPatterns\PoolObect\obj\Debug\PoolObect.pdb
+D:\itstep\Patterns\CreationPatterns\PoolObect\bin\Debug\PoolObect.exe
+D:\itstep\Patterns\CreationPatterns\PoolObect\bin\Debug\PoolObect.pdb
+D:\itstep\Patterns\CreationPatterns\PoolObect\obj\Debug\PoolObect.csprojResolveAssemblyReference.cache

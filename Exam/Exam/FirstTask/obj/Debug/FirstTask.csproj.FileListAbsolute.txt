@@ -1,0 +1,14 @@
+D:\itstep\Patterns\Exam\Exam\FirstTask\bin\Debug\FirstTask.exe.config
+D:\itstep\Patterns\Exam\Exam\FirstTask\bin\Debug\FirstTask.exe
+D:\itstep\Patterns\Exam\Exam\FirstTask\bin\Debug\FirstTask.pdb
+D:\itstep\Patterns\Exam\Exam\FirstTask\obj\Debug\FirstTask.csprojResolveAssemblyReference.cache
+D:\itstep\Patterns\Exam\Exam\FirstTask\obj\Debug\MainWindow.g.cs
+D:\itstep\Patterns\Exam\Exam\FirstTask\obj\Debug\App.g.cs
+D:\itstep\Patterns\Exam\Exam\FirstTask\obj\Debug\FirstTask_MarkupCompile.cache
+D:\itstep\Patterns\Exam\Exam\FirstTask\obj\Debug\FirstTask_MarkupCompile.lref
+D:\itstep\Patterns\Exam\Exam\FirstTask\obj\Debug\MainWindow.baml
+D:\itstep\Patterns\Exam\Exam\FirstTask\obj\Debug\FirstTask.g.resources
+D:\itstep\Patterns\Exam\Exam\FirstTask\obj\Debug\FirstTask.Properties.Resources.resources
+D:\itstep\Patterns\Exam\Exam\FirstTask\obj\Debug\FirstTask.csproj.GenerateResource.Cache
+D:\itstep\Patterns\Exam\Exam\FirstTask\obj\Debug\FirstTask.exe
+D:\itstep\Patterns\Exam\Exam\FirstTask\obj\Debug\FirstTask.pdb

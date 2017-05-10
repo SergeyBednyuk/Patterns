@@ -1,0 +1,9 @@
+D:\Sergey Bednyk\Design Patterns\Practik\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\Sergey Bednyk\Design Patterns\Practik\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\Sergey Bednyk\Design Patterns\Practik\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\Sergey Bednyk\Design Patterns\Practik\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+D:\Sergey Bednyk\Design Patterns\Practik\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\Sergey Bednyk\Design Patterns\Practik\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\itstep\Patterns\CreationPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\itstep\Patterns\CreationPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\itstep\Patterns\CreationPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb

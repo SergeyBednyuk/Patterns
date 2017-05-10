@@ -1,0 +1,9 @@
+c:\temp\BehavioralPatterns\Iterator\bin\Debug\Iterator.exe.config
+c:\temp\BehavioralPatterns\Iterator\bin\Debug\Iterator.exe
+c:\temp\BehavioralPatterns\Iterator\bin\Debug\Iterator.pdb
+c:\temp\BehavioralPatterns\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+c:\temp\BehavioralPatterns\Iterator\obj\Debug\Iterator.exe
+c:\temp\BehavioralPatterns\Iterator\obj\Debug\Iterator.pdb
+D:\itstep\Patterns\BehavioralPatterns\Iterator\bin\Debug\Iterator.exe.config
+D:\itstep\Patterns\BehavioralPatterns\Iterator\obj\Debug\Iterator.exe
+D:\itstep\Patterns\BehavioralPatterns\Iterator\obj\Debug\Iterator.pdb

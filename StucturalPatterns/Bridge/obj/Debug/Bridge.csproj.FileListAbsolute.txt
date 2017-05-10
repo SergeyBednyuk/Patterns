@@ -1,0 +1,9 @@
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Bridge\bin\Debug\Bridge.exe.config
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Bridge\bin\Debug\Bridge.exe
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Bridge\bin\Debug\Bridge.pdb
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Bridge\obj\Debug\Bridge.exe
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Bridge\obj\Debug\Bridge.pdb
+D:\itstep\Patterns\StucturalPatterns\Bridge\bin\Debug\Bridge.exe.config
+D:\itstep\Patterns\StucturalPatterns\Bridge\obj\Debug\Bridge.exe
+D:\itstep\Patterns\StucturalPatterns\Bridge\obj\Debug\Bridge.pdb

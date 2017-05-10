@@ -1,0 +1,12 @@
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Proxy\bin\Debug\Proxy.exe.config
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Proxy\bin\Debug\Proxy.exe
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Proxy\bin\Debug\Proxy.pdb
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Proxy\obj\Debug\Proxy.exe
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Proxy\obj\Debug\Proxy.pdb
+D:\StucturalPatterns\StucturalPatterns\Proxy\bin\Debug\Proxy.exe.config
+D:\StucturalPatterns\StucturalPatterns\Proxy\obj\Debug\Proxy.exe
+D:\StucturalPatterns\StucturalPatterns\Proxy\obj\Debug\Proxy.pdb
+d:\itstep\Patterns\StucturalPatterns\Proxy\bin\Debug\Proxy.exe.config
+d:\itstep\Patterns\StucturalPatterns\Proxy\obj\Debug\Proxy.exe
+d:\itstep\Patterns\StucturalPatterns\Proxy\obj\Debug\Proxy.pdb

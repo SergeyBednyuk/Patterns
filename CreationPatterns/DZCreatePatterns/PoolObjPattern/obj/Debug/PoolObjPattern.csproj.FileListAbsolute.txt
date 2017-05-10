@@ -1,0 +1,7 @@
+D:\itstep\Patterns\DZ\PoolObjPattern\bin\Debug\PoolObjPattern.exe.config
+D:\itstep\Patterns\DZ\PoolObjPattern\bin\Debug\PoolObjPattern.exe
+D:\itstep\Patterns\DZ\PoolObjPattern\bin\Debug\PoolObjPattern.pdb
+D:\itstep\Patterns\DZ\PoolObjPattern\obj\Debug\PoolObjPattern.csprojResolveAssemblyReference.cache
+D:\itstep\Patterns\DZ\PoolObjPattern\obj\Debug\PoolObjPattern.exe
+D:\itstep\Patterns\DZ\PoolObjPattern\obj\Debug\PoolObjPattern.pdb
+D:\itstep\Patterns\DZ\PoolObjPattern\bin\Debug\BigInteger.dll

@@ -1,0 +1,5 @@
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\TamplateMethod\bin\Debug\TamplateMethod.exe.config
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\TamplateMethod\bin\Debug\TamplateMethod.exe
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\TamplateMethod\bin\Debug\TamplateMethod.pdb
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\TamplateMethod\obj\Debug\TamplateMethod.exe
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\TamplateMethod\obj\Debug\TamplateMethod.pdb

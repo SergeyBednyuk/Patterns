@@ -1,0 +1,1 @@
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\Mediator\bin\Debug\Mediator.exe.config

@@ -1,0 +1,6 @@
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Adapter\bin\Debug\Adapter.exe.config
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Adapter\bin\Debug\Adapter.exe
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Adapter\bin\Debug\Adapter.pdb
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Adapter\obj\Debug\Adapter.exe
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Adapter\obj\Debug\Adapter.pdb

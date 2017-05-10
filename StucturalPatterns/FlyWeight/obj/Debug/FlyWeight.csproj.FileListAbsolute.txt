@@ -1,0 +1,6 @@
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\FlyWeight\bin\Debug\FlyWeight.exe.config
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\FlyWeight\bin\Debug\FlyWeight.exe
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\FlyWeight\bin\Debug\FlyWeight.pdb
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\FlyWeight\obj\Debug\FlyWeight.csprojResolveAssemblyReference.cache
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\FlyWeight\obj\Debug\FlyWeight.exe
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\FlyWeight\obj\Debug\FlyWeight.pdb

@@ -1,0 +1,9 @@
+C:\Users\st.ITSTEP.000\Desktop\BehavioralPatterns\Command\bin\Debug\Command.exe.config
+C:\Users\st.ITSTEP.000\Desktop\BehavioralPatterns\Command\bin\Debug\Command.exe
+C:\Users\st.ITSTEP.000\Desktop\BehavioralPatterns\Command\bin\Debug\Command.pdb
+C:\Users\st.ITSTEP.000\Desktop\BehavioralPatterns\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\Users\st.ITSTEP.000\Desktop\BehavioralPatterns\Command\obj\Debug\Command.exe
+C:\Users\st.ITSTEP.000\Desktop\BehavioralPatterns\Command\obj\Debug\Command.pdb
+D:\itstep\Patterns\BehavioralPatterns\Command\bin\Debug\Command.exe.config
+D:\itstep\Patterns\BehavioralPatterns\Command\obj\Debug\Command.exe
+D:\itstep\Patterns\BehavioralPatterns\Command\obj\Debug\Command.pdb

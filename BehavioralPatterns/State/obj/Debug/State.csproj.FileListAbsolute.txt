@@ -1,0 +1,6 @@
+C:\Users\st.ITSTEP.000\Desktop\BehavioralPatterns\State\bin\Debug\State.exe.config
+C:\Users\st.ITSTEP.000\Desktop\BehavioralPatterns\State\bin\Debug\State.exe
+C:\Users\st.ITSTEP.000\Desktop\BehavioralPatterns\State\bin\Debug\State.pdb
+C:\Users\st.ITSTEP.000\Desktop\BehavioralPatterns\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+C:\Users\st.ITSTEP.000\Desktop\BehavioralPatterns\State\obj\Debug\State.exe
+C:\Users\st.ITSTEP.000\Desktop\BehavioralPatterns\State\obj\Debug\State.pdb

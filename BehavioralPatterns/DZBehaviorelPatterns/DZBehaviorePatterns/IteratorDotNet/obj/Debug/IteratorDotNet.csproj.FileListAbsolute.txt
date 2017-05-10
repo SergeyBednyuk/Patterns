@@ -1,0 +1,6 @@
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\IteratorDotNet\bin\Debug\IteratorDotNet.exe.config
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\IteratorDotNet\obj\Debug\IteratorDotNet.csprojResolveAssemblyReference.cache
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\IteratorDotNet\bin\Debug\IteratorDotNet.exe
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\IteratorDotNet\bin\Debug\IteratorDotNet.pdb
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\IteratorDotNet\obj\Debug\IteratorDotNet.exe
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\IteratorDotNet\obj\Debug\IteratorDotNet.pdb

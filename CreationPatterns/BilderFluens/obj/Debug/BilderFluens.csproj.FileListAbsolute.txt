@@ -1,0 +1,11 @@
+D:\Sergey Bednyk\Design Patterns\Practik\BilderFluens\bin\Debug\BilderFluens.exe.config
+D:\Sergey Bednyk\Design Patterns\Practik\BilderFluens\bin\Debug\BilderFluens.exe
+D:\Sergey Bednyk\Design Patterns\Practik\BilderFluens\bin\Debug\BilderFluens.pdb
+D:\Sergey Bednyk\Design Patterns\Practik\BilderFluens\obj\Debug\BilderFluens.exe
+D:\Sergey Bednyk\Design Patterns\Practik\BilderFluens\obj\Debug\BilderFluens.pdb
+D:\itstep\Patterns\CreationPatterns\BilderFluens\bin\Debug\BilderFluens.exe.config
+D:\itstep\Patterns\CreationPatterns\BilderFluens\obj\Debug\BilderFluens.exe
+D:\itstep\Patterns\CreationPatterns\BilderFluens\obj\Debug\BilderFluens.pdb
+D:\itstep\Patterns\CreationPatterns\BilderFluens\bin\Debug\BilderFluens.exe
+D:\itstep\Patterns\CreationPatterns\BilderFluens\bin\Debug\BilderFluens.pdb
+D:\itstep\Patterns\CreationPatterns\BilderFluens\obj\Debug\BilderFluens.csprojResolveAssemblyReference.cache

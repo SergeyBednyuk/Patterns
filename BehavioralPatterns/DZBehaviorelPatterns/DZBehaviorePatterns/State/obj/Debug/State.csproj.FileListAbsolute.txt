@@ -1,0 +1,6 @@
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\State\bin\Debug\State.exe.config
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\State\bin\Debug\State.exe
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\State\bin\Debug\State.pdb
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\State\obj\Debug\State.exe
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\State\obj\Debug\State.pdb

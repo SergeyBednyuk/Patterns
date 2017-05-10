@@ -1,0 +1,7 @@
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\Command\bin\Debug\Command.exe.config
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\Command\bin\Debug\Command.exe
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\Command\bin\Debug\Command.pdb
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\Command\bin\Debug\BigInteger.dll
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\Command\obj\Debug\Command.exe
+D:\itstep\Patterns\BehavioralPatterns\DZBehaviorelPatterns\DZBehaviorePatterns\Command\obj\Debug\Command.pdb

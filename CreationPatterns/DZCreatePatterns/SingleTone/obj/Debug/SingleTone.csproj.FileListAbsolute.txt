@@ -1,0 +1,9 @@
+D:\itstep\Patterns\DZ\SingleTone\bin\Debug\SingleTone.exe.config
+D:\itstep\Patterns\DZ\SingleTone\bin\Debug\SingleTone.exe
+D:\itstep\Patterns\DZ\SingleTone\bin\Debug\SingleTone.pdb
+D:\itstep\Patterns\DZ\SingleTone\obj\Debug\SingleTone.exe
+D:\itstep\Patterns\DZ\SingleTone\obj\Debug\SingleTone.pdb
+D:\itstep\Patterns\DZ\SingleTone\obj\Debug\SingleTone.csprojResolveAssemblyReference.cache
+d:\itstep\Patterns\CreationPatterns\DZCreatePatterns\SingleTone\bin\Debug\SingleTone.exe.config
+d:\itstep\Patterns\CreationPatterns\DZCreatePatterns\SingleTone\obj\Debug\SingleTone.exe
+d:\itstep\Patterns\CreationPatterns\DZCreatePatterns\SingleTone\obj\Debug\SingleTone.pdb

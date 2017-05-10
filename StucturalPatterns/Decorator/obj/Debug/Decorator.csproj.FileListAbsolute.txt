@@ -1,0 +1,12 @@
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Decorator\bin\Debug\Decorator.exe.config
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Decorator\bin\Debug\Decorator.exe
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Decorator\bin\Debug\Decorator.pdb
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Decorator\obj\Debug\Decorator.exe
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Decorator\obj\Debug\Decorator.pdb
+D:\itstep\Patterns\StucturalPatterns\Decorator\bin\Debug\Decorator.exe.config
+D:\itstep\Patterns\StucturalPatterns\Decorator\obj\Debug\Decorator.exe
+D:\itstep\Patterns\StucturalPatterns\Decorator\obj\Debug\Decorator.pdb
+D:\itstep\Patterns\StucturalPatterns\Decorator\bin\Debug\Decorator.exe
+D:\itstep\Patterns\StucturalPatterns\Decorator\bin\Debug\Decorator.pdb
+D:\itstep\Patterns\StucturalPatterns\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache

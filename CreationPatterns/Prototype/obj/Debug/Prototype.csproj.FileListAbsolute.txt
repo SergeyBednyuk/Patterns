@@ -1,0 +1,6 @@
+D:\Sergey Bednyk\Design Patterns\Practik\Prototype\bin\Debug\Prototype.exe.config
+D:\Sergey Bednyk\Design Patterns\Practik\Prototype\bin\Debug\Prototype.exe
+D:\Sergey Bednyk\Design Patterns\Practik\Prototype\bin\Debug\Prototype.pdb
+D:\Sergey Bednyk\Design Patterns\Practik\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+D:\Sergey Bednyk\Design Patterns\Practik\Prototype\obj\Debug\Prototype.exe
+D:\Sergey Bednyk\Design Patterns\Practik\Prototype\obj\Debug\Prototype.pdb

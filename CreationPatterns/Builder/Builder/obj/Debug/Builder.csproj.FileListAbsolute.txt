@@ -1,0 +1,6 @@
+D:\Sergey Bednyk\Design Patterns\Practik\Builder\Builder\bin\Debug\Builder.exe.config
+D:\Sergey Bednyk\Design Patterns\Practik\Builder\Builder\bin\Debug\Builder.exe
+D:\Sergey Bednyk\Design Patterns\Practik\Builder\Builder\bin\Debug\Builder.pdb
+D:\Sergey Bednyk\Design Patterns\Practik\Builder\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+D:\Sergey Bednyk\Design Patterns\Practik\Builder\Builder\obj\Debug\Builder.exe
+D:\Sergey Bednyk\Design Patterns\Practik\Builder\Builder\obj\Debug\Builder.pdb

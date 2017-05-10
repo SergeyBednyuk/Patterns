@@ -1,0 +1,9 @@
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Composite\bin\Debug\Composite.exe.config
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Composite\bin\Debug\Composite.exe
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Composite\bin\Debug\Composite.pdb
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Composite\obj\Debug\Composite.exe
+D:\Vilchuk\Patterns\StucturalPatterns\StucturalPatterns\Composite\obj\Debug\Composite.pdb
+D:\itstep\Patterns\StucturalPatterns\Composite\bin\Debug\Composite.exe.config
+D:\itstep\Patterns\StucturalPatterns\Composite\obj\Debug\Composite.exe
+D:\itstep\Patterns\StucturalPatterns\Composite\obj\Debug\Composite.pdb

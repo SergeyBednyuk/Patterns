@@ -1,0 +1,6 @@
+c:\temp\BehavioralPatterns\ObserverDotNet\bin\Debug\ObserverDotNet.exe.config
+c:\temp\BehavioralPatterns\ObserverDotNet\bin\Debug\ObserverDotNet.exe
+c:\temp\BehavioralPatterns\ObserverDotNet\bin\Debug\ObserverDotNet.pdb
+c:\temp\BehavioralPatterns\ObserverDotNet\obj\Debug\ObserverDotNet.csprojResolveAssemblyReference.cache
+c:\temp\BehavioralPatterns\ObserverDotNet\obj\Debug\ObserverDotNet.exe
+c:\temp\BehavioralPatterns\ObserverDotNet\obj\Debug\ObserverDotNet.pdb

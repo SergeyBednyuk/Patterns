@@ -1,0 +1,6 @@
+D:\itstep\Patterns\StucturalPatterns\DZ\Adapter\Fasade\bin\Debug\Fasade.exe.config
+D:\itstep\Patterns\StucturalPatterns\DZ\Adapter\Fasade\bin\Debug\Fasade.exe
+D:\itstep\Patterns\StucturalPatterns\DZ\Adapter\Fasade\bin\Debug\Fasade.pdb
+D:\itstep\Patterns\StucturalPatterns\DZ\Adapter\Fasade\obj\Debug\Fasade.exe
+D:\itstep\Patterns\StucturalPatterns\DZ\Adapter\Fasade\obj\Debug\Fasade.pdb
+D:\itstep\Patterns\StucturalPatterns\DZ\Adapter\Fasade\obj\Debug\Fasade.csprojResolveAssemblyReference.cache

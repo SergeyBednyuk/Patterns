@@ -1,0 +1,9 @@
+D:\Sergey Bednyk\Design Patterns\Practik\Singletone\bin\Debug\Singletone.exe.config
+D:\Sergey Bednyk\Design Patterns\Practik\Singletone\bin\Debug\Singletone.exe
+D:\Sergey Bednyk\Design Patterns\Practik\Singletone\bin\Debug\Singletone.pdb
+D:\Sergey Bednyk\Design Patterns\Practik\Singletone\obj\Debug\Singletone.csprojResolveAssemblyReference.cache
+D:\Sergey Bednyk\Design Patterns\Practik\Singletone\obj\Debug\Singletone.exe
+D:\Sergey Bednyk\Design Patterns\Practik\Singletone\obj\Debug\Singletone.pdb
+d:\itstep\Patterns\CreationPatterns\Singletone\bin\Debug\Singletone.exe.config
+d:\itstep\Patterns\CreationPatterns\Singletone\obj\Debug\Singletone.exe
+d:\itstep\Patterns\CreationPatterns\Singletone\obj\Debug\Singletone.pdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Car>
+    <name>Honda</name>
+    <model>Civic</model>
+    <year>1999</year>
+    <price>3000</price>
+  </Car>
+  <Car>
+    <name>Nissan</name>
+    <model>180sx</model>
+    <year>1995</year>
+    <price>50000</price>
+  </Car>
+  <Car>
+    <name>Toyota</name>
+    <model>Supra</model>
+    <year>1998</year>
+    <price>10000</price>
+  </Car>
+</Cars>

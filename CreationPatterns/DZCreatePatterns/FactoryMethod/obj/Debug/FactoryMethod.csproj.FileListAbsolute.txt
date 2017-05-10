@@ -1,0 +1,9 @@
+D:\itstep\Patterns\DZ\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\itstep\Patterns\DZ\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\itstep\Patterns\DZ\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\itstep\Patterns\DZ\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+D:\itstep\Patterns\DZ\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\itstep\Patterns\DZ\FactoryMethod\obj\Debug\FactoryMethod.pdb
+d:\itstep\Patterns\CreationPatterns\DZCreatePatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+d:\itstep\Patterns\CreationPatterns\DZCreatePatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+d:\itstep\Patterns\CreationPatterns\DZCreatePatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
